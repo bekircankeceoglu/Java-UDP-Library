@@ -11,10 +11,10 @@ import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import udpclient.UDPClass.*; 
 /**
- * This program demonstrates how to implement a UDP client program.
+ * This program demonstrates how to use UDP Class
  *
  *
- * @author www.codejava.net
+ * @author Bekircan
  */
 public class UDPClient {
  
